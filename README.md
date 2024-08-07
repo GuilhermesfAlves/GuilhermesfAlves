@@ -34,6 +34,7 @@ Graduando em Bacharelado em Ciência da Computação na Universidade Federal do 
 ### Meus Principais Projetos
 
 [![Repo Space-Invaders](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermesfAlves&repo=Space-Invaders&show_icons=true&theme=radical&locale=pt-br)](https://github.com/GuilhermesfAlves/Space-Invaders)
+[![Repo Streaming](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermesfAlves&repo=Streaming&show_icons=true&theme=radical&locale=pt-br)](https://github.com/GuilhermesfAlves/Streaming)
 
 <!--
 ### Meus Principais Artigos na DIO

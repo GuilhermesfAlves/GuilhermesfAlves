@@ -31,7 +31,7 @@ Graduando em Bacharelado em Ciência da Computação na Universidade Federal do 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermesfAlves&layout=compact&theme=radical&card_width=467&locale=pt-br)
 
 
-### Meus Principais Projetos
+### Meus Principais Projetos 
 
 [![Repo Space-Invaders](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermesfAlves&repo=Space-Invaders&show_icons=true&theme=radical&locale=pt-br)](https://github.com/GuilhermesfAlves/Space-Invaders)
 [![Repo Streaming](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermesfAlves&repo=Streaming&show_icons=true&theme=radical&locale=pt-br)](https://github.com/GuilhermesfAlves/Streaming)
